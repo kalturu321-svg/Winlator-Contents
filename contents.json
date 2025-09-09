@@ -33,6 +33,13 @@
     "verCode": "1",
     "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/Box64/box64-0.3.7-34e7894.wcp"
    },
+
+  {
+    "type": "Box64",
+    "verName": "0.3.7-dca2b99",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/Box64/box64-0.3.7-dca2b99.wcp"
+   },
   
   {
     "type": "DXVK",
@@ -111,7 +118,7 @@
     "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/FEXCore/fexcore_241214.wcp"
    },
 
-    {
+  {
     "type": "FEXCore",
     "verName": "7df1ed2",
     "verCode": "1",
@@ -130,6 +137,13 @@
     "verName": "83e4496",
     "verCode": "1",
     "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/FEX-83e4496.wcp"
+   },
+
+  {
+    "type": "FEXCore",
+    "verName": "09793d2",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/FEX-09793d2.wcp"
    },
 
   {
