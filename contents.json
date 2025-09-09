@@ -43,9 +43,9 @@
   
   {
     "type": "DXVK",
-    "verName": "1.10.3-arm64ec-async",
+    "verName": "1.7.2",
     "verCode": "1",
-    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-1.10.3-arm64ec-async.wcp"
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-1.7.2.wcp"
    },
 
   {
@@ -53,6 +53,13 @@
     "verName": "1.9.4",
     "verCode": "1",
     "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-1.9.4.wcp"
+   },
+
+  {
+    "type": "DXVK",
+    "verName": "1.10.3-arm64ec-async",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-1.10.3-arm64ec-async.wcp"
    },
 
   {
@@ -99,6 +106,13 @@
 
   {
     "type": "DXVK",
+    "verName": "2.6.2-arm64ec-gplasync",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.6.2-arm64ec-gplasync.wcp"
+   },
+
+  {
+    "type": "DXVK",
     "verName": "async-1.10.3",
     "verCode": "1",
     "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-async-1.10.3.wcp"
@@ -120,9 +134,9 @@
 
   {
     "type": "FEXCore",
-    "verName": "7df1ed2",
+    "verName": "2505",
     "verCode": "1",
-    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/FEX-7df1ed2.wcp"
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/fexcore-2505.wcp"
    },
 
   {
@@ -130,13 +144,6 @@
     "verName": "2508.1",
     "verCode": "1",
     "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/FEXCore/2508.1.wcp"
-   },
-
-  {
-    "type": "FEXCore",
-    "verName": "83e4496",
-    "verCode": "1",
-    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/FEX-83e4496.wcp"
    },
 
   {
