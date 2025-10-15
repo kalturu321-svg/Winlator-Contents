@@ -92,7 +92,7 @@
 
   {
     "type": "DXVK",
-    "verName": "dxvk-2.4.1-1-gplasync-arm64ec",
+    "verName": "2.4.1-arm64ec-gplasync",
     "verCode": "1",
     "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.4.1-1-gplasync-arm64ec.wcp"
   },
