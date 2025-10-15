@@ -120,13 +120,6 @@
 
   {
     "type": "DXVK",
-    "verName": "dxvk-2.6.2-arm64ec-gplasync",
-    "verCode": "1",
-    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.6.2-arm64ec-gplasync.wcp"
-  },
-
-  {
-    "type": "DXVK",
     "verName": "async-1.10.3",
     "verCode": "1",
     "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-async-1.10.3.wcp"
