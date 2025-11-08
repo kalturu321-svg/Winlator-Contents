@@ -210,6 +210,13 @@
   },
 
   {
+    "type": "FEXCore",
+    "verName": "2511",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/FEXCore-251029G.wcp"
+  },
+
+  {
     "type": "VKD3D",
     "verName": "2.14.1-proton",
     "verCode": "1",
