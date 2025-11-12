@@ -85,13 +85,6 @@
 
   {
     "type": "DXVK",
-    "verName": "1.10.3-arm64ec-async",
-    "verCode": "1",
-    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-1.10.3-arm64ec-async.wcp"
-  },
-
-  {
-    "type": "DXVK",
     "verName": "2.4.1-PreRegression",
     "verCode": "1",
     "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.4.1-PreRegression.wcp"
@@ -123,13 +116,6 @@
     "verName": "2.6-2-gplasync",
     "verCode": "1",
     "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.6-2-gplasync.wcp"
-  },
-
-  {
-    "type": "DXVK",
-    "verName": "2.6-arm64ec-gplasync",
-    "verCode": "1",
-    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.6-arm64ec-gplasync.wcp"
   },
 
     {
