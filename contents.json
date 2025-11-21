@@ -190,9 +190,9 @@
 
     {
     "type": "FEXCore",
-    "verName": "",
+    "verName": "251120G",
     "verCode": "1",
-    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/FEXCore-251029G.wcp"
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/FEXCore-251120G.wcp"
   },
 
   {
@@ -210,6 +210,13 @@
   },
   
   {
+    "type": "VKD3D",
+    "verName": "vkd3d-2.14.1-arm64ec",
+    "verCode": "0",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/VKD3D/vkd3d-2.14.1-arm64ec.wcp"
+  },
+
+{
     "type": "VKD3D",
     "verName": "vkd3d-2.14.1-arm64ec",
     "verCode": "0",
