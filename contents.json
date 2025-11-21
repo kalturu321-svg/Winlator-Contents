@@ -218,8 +218,8 @@
 
 {
     "type": "VKD3D",
-    "verName": "vkd3d-2.14.1-arm64ec",
+    "verName": "vkd3d-proton-3.0a.wcp",
     "verCode": "0",
-    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/VKD3D/vkd3d-2.14.1-arm64ec.wcp"
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/VKD3D/vkd3d-proton-3.0a.wcp"
   }
 ]
