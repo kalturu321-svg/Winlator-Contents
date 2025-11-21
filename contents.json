@@ -43,9 +43,9 @@
 
     {
     "type": "Box64",
-    "verName": "0.3.9-d730610",
+    "verName": "0.3.9-cc389b3.wcp",
     "verCode": "1",
-    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/Box64/box64-0.3.9-d730610.wcp"
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/Box64/box64-0.3.9-cc389b3.wcp"
   },
   
   {
@@ -57,9 +57,9 @@
 
   {
   "type": "WOWBox64",
-  "verName": "0.3.9-d730610",
+  "verName": "0.3.9-cc389b3",
   "verCode": "1",
-  "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/WOWBox64/WowBox64-0.3.9-d730610.wcp"
+  "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/WOWBox64/WowBox64-0.3.9-cc389b3.wcp"
   },
 
   {
@@ -190,7 +190,7 @@
 
     {
     "type": "FEXCore",
-    "verName": "251029G",
+    "verName": "",
     "verCode": "1",
     "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/FEXCore-251029G.wcp"
   },
