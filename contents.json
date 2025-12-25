@@ -99,7 +99,7 @@
   
   {
     "type": "DXVK",
-    "verName": "2.3.1-gplasync-sp",
+    "verName": "2.3.1-gplasync",
     "verCode": "1",
     "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.3.1-gplasync.wcp"
   },
