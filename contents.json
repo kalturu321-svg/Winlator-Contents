@@ -97,13 +97,6 @@
     "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-11.1-sarek-async.wcp"
   },
   
-    {
-    "type": "DXVK",
-    "verName": "11.1-sarek-Mali-fix",
-    "verCode": "1",
-    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-11.1-sarek-Mali-fix.wcp"
-  },
-  
   {
     "type": "DXVK",
     "verName": "2.4.1.1-gplasync-sp",
