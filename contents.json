@@ -200,6 +200,28 @@
     "verCode": "1",
     "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/2512.wcp"
   },
+
+{
+    "type": "VKD3D",
+    "verName": "2.7-proton",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/VKD3D/vkd3d-proton-2.7.wcp"
+  },
+
+{
+    "type": "VKD3D",
+    "verName": "2.9-proton",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/VKD3D/vkd3d-proton-2.9.wcp"
+  },
+
+{
+    "type": "VKD3D",
+    "verName": "2.12-proton",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/VKD3D/vkd3d-proton-2.12.wcp"
+  },
+  
   {
     "type": "VKD3D",
     "verName": "2.14.1-proton",
