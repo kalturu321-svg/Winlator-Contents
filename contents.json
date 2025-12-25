@@ -82,7 +82,28 @@
     "verCode": "1",
     "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-1.9.4.wcp"
   },
-
+  
+  {
+    "type": "DXVK",
+    "verName": "1.10.3-async",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-1.10.3-async.wcp"
+  },
+  
+    {
+    "type": "DXVK",
+    "verName": "11.1-sarek-async",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-11.1-sarek-async.wcp"
+  },
+  
+    {
+    "type": "DXVK",
+    "verName": "11.1-sarek-Mali-fix",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-11.1-sarek-Mali-fix.wcp"
+  },
+  
   {
     "type": "DXVK",
     "verName": "2.4.1.1-gplasync-sp",
@@ -127,16 +148,9 @@
 
   {
     "type": "DXVK",
-    "verName": "async-1.10.3",
+    "verName": "2.7-gplasync",
     "verCode": "1",
-    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-async-1.10.3.wcp"
-  },
-
-  {
-    "type": "DXVK",
-    "verName": "gplasync-2.3.1-1",
-    "verCode": "1",
-    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-gplasync-v2.3.1-1.wcp"
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/DXVK/dxvk-2.7-gplasync.wcp"
   },
 
   {
