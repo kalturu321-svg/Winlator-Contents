@@ -214,7 +214,20 @@
     "verCode": "1",
     "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/2512.wcp"
   },
-
+  
+{
+    "type": "FEXCore",
+    "verName": "2512-b41b967-nightly",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/2512-b41b967-nightly.wcp"
+  },
+  
+  {
+    "type": "FEXCore",
+    "verName": "2512G-gamehub",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/2512G-gamehub.wcp"
+  },
 {
     "type": "VKD3D",
     "verName": "2.7-proton",
