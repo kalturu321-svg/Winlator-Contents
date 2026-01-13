@@ -270,11 +270,11 @@
     "verCode": "0",
     "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/VKD3D/vkd3d-proton-3.0a.wcp"
   },
-  
-{
+  {
     "type": "VKD3D",
-    "verName": "arm64ec-3.0a",
+    "verName": "arm64ec-3.0b-2763dd2",
     "verCode": "0",
     "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/VKD3D/vkd3d-arm64ec-3.0a.wcp"
-}
+  }
+  
 ]
