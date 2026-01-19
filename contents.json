@@ -29,9 +29,9 @@
   
   {
     "type": "Box64",
-    "verName": "0.3.7-5768989",
+    "verName": "0.3.7",
     "verCode": "1",
-    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/Box64/box64-0.3.7-5768989.wcp"
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/Box64/box64-0.3.7.wcp"
   },
   
   {
@@ -43,16 +43,16 @@
 
     {
     "type": "Box64",
-    "verName": "0.3.9-056999e.wcp",
+    "verName": "0.3.9.wcp",
     "verCode": "1",
-    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/Box64/box64-0.3.9-056999e.wcp"
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/Box64/box64-0.3.9.wcp"
   },
 
       {
     "type": "Box64",
-    "verName": "0.4.0.wcp",
+    "verName": "0.4.1.wcp",
     "verCode": "1",
-    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/Box64/box64-0.4.0.wcp"
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/Box64/box64-0.4.1.wcp"
   },
   
   {
