@@ -1,9 +1,9 @@
 [
   {
     "type": "Wine",
-    "verName": "proton-10-arm64ec",
+    "verName": "10-arm64ec",
     "verCode": "1",
-    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/releases/download/1.0/proton-10-arm64ec.wcp.xz"
+    "remoteUrl": "https://github.com/Stredohori/Winlator-Contents/releases/download/1.1/proton-10-arm64ec.wcp.xz"
   },
   
   {
